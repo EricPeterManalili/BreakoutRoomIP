@@ -1,0 +1,107 @@
+[
+   {
+      "meta": {
+         "timestamp": "2022-10-27",
+         "path": "/ip/info",
+         "method": "GET"
+      },
+      "body": {
+         "ip": "112.204.183.3",
+         "network": "112.204.176.0/20",
+         "version": "IPv4",
+         "country_code": "PH",
+         "postal": "1550",
+         "latitude": 14.5834,
+         "longitude": 121.0367,
+         "asn": "AS9299"
+      }
+   },
+   {
+      "meta": {
+         "timestamp": "2022-10-27",
+         "path": "/ip/info",
+         "method": "GET"
+      },
+      "body": {
+         "ip": "112.204.183.3",
+         "network": "112.204.176.0/20",
+         "version": "IPv4",
+         "country_code": "PH",
+         "postal": "1550",
+         "latitude": 14.5834,
+         "longitude": 121.0367,
+         "asn": "AS9299"
+      }
+   },
+   {
+      "meta": {
+         "timestamp": "2022-10-27",
+         "path": "/ip/info/157.240.211.35",
+         "method": "GET"
+      },
+      "body": {
+         "ip": "157.240.211.35",
+         "network": "157.240.211.0/24",
+         "version": "IPv4",
+         "country_code": "HK",
+         "postal": null,
+         "latitude": 22.3667,
+         "longitude": 114.1,
+         "asn": "AS32934"
+      }
+   },
+   {
+      "meta": {
+         "timestamp": "2022-10-27",
+         "path": "/ip/info/backLog",
+         "method": "GET"
+      },
+      "body": {
+         "ip": "backLog"
+      }
+   },
+   {
+      "meta": {
+         "timestamp": "2022-10-27",
+         "path": "/ip/info/backLog",
+         "method": "GET"
+      },
+      "body": {
+         "ip": "backLog"
+      }
+   },
+   {
+      "meta": {
+         "timestamp": "2022-10-27",
+         "path": "/ip/info",
+         "method": "GET"
+      },
+      "body": {
+         "ip": "112.204.183.3",
+         "network": "112.204.176.0/20",
+         "version": "IPv4",
+         "country_code": "PH",
+         "postal": "1550",
+         "latitude": 14.5834,
+         "longitude": 121.0367,
+         "asn": "AS9299"
+      }
+   },
+   {
+      "meta": {
+         "timestamp": "2022-10-27",
+         "path": "/ip/info/8.8.8.8",
+         "method": "GET"
+      },
+      "body": {
+         "ip": "8.8.8.8",
+         "network": "8.8.8.0/24",
+         "version": "IPv4",
+         "country_code": "US",
+         "postal": "94043",
+         "latitude": 37.42301,
+         "longitude": -122.083352,
+         "asn": "AS15169"
+      }
+   }
+]
