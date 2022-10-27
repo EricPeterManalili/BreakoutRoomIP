@@ -3,3 +3,5 @@
 logs/*
 logs/backlog.json
 logs/logRequest.log
+
+__pycache__/logger.cpython-39.pyc
