@@ -47,7 +47,7 @@ def getMyIP():
 
    # Response
    backLogs(filteredIpInfo, request.path, request.method)
-   res = make_response(myInfo, 200)
+   res = make_response(filteredIpInfo, 200)
    
    return res  
 
