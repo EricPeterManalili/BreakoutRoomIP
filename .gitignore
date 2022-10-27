@@ -1,0 +1,5 @@
+.env
+
+logs/*
+logs/backlog.json
+logs/logRequest.log
